@@ -6,3 +6,4 @@ cv2
 ultralytics
 numpy 
 pandas
+matplotlib.pyplot

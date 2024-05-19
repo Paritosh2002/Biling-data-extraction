@@ -2,7 +2,7 @@ import gradio as gr
 from pdf2image import convert_from_path
 import os
 import shutil
-import easyocr
+#import easyocr
 from yolo_predict import yolo_prediction
 import cv2
 from paddleocr import PaddleOCR
