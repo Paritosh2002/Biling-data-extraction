@@ -1,0 +1,8 @@
+gradio
+pdf2image
+paddlecor
+spacy
+cv2
+ultralytics
+numpy 
+pandas

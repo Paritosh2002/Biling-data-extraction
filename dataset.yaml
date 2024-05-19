@@ -1,0 +1,9 @@
+path: /content/drive/My Drive/yolo_training  # dataset root dir
+train: /content/drive/My Drive/yolo_training/train # train images (relative to 'path') 
+val: /content/drive/My Drive/yolo_training/val  # val images (relative to 'path') 
+
+
+# Classes 
+names:
+  0: head
+  1: table
